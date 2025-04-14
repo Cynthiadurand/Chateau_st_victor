@@ -157,6 +157,7 @@ header>nav {
     backdrop-filter: blur(6px);
     position: relative;
     top: -20px;
+    padding: 12px 0;
 }
 .padding
 {padding: 12px 0;}
