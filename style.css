@@ -113,11 +113,13 @@ header>nav {
 .logo {
     width: 100px;
 }
+
 /* hero section */
 .sectionHero {
     height: 100vh;
     position: relative;
 }
+
 .bgHero
 {
     width: 100%;
